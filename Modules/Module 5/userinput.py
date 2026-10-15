@@ -9,3 +9,5 @@ print(user_text.upper())
 user_number = input("What do you want to double? ")
 
 print(user_number *2)
+
+user_number = input("what do you want to double? ")
